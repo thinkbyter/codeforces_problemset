@@ -1,5 +1,5 @@
 # https://codeforces.com/problemset/problem/1/A
-# Difficulty: 900
+# Difficulty: 1000
 # Trials: 1
 # Time: 00:03:33
 
