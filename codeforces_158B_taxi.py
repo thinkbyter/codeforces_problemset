@@ -1,4 +1,4 @@
-# https://codeforces.com/problemset/problem/158/B
+# Problem: https://codeforces.com/problemset/problem/158/B
 # Difficulty: 1100
 # Trials: 6
 # Time: 00:45:14

@@ -1,4 +1,4 @@
-# https://codeforces.com/problemset/problem/1/A
+# Problem: https://codeforces.com/problemset/problem/1/A
 # Difficulty: 1000
 # Trials: 1
 # Time: 00:03:33

@@ -1,4 +1,4 @@
-# https://codeforces.com/problemset/problem/4/A
+# Problem: https://codeforces.com/problemset/problem/4/A
 # Difficulty: 800
 # Trials: 3
 # Time: 00:12:51

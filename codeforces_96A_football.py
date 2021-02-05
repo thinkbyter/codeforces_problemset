@@ -1,4 +1,4 @@
-# https://codeforces.com/problemset/problem/96/A
+# Problem: https://codeforces.com/problemset/problem/96/A
 # Difficulty: 900
 # Trials: 3
 # Time: 00:09:53
